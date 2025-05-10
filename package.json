@@ -1,5 +1,6 @@
 {
-  "name": "developer-portfolio",
+  "name": "ab-portfolio",
+  "homepage": "abedbashir.com",
   "private": true,
   "version": "0.1.0",
   "type": "module",
@@ -8,8 +9,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "npm run deploy",
-    "deploy": "gh-pages -d dist"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "framer-motion": "^11.0.5",
