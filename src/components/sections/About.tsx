@@ -2,7 +2,8 @@ import React from "react";
 import { motion } from "framer-motion";
 import { useInView } from "react-intersection-observer";
 import { Download } from "lucide-react";
-import CV from "./assets/CV.pdf";
+import MyCV from "/src/components/assets/CV.pdf";
+import MyImage from "/src/components/assets/about.png";
 
 export const About: React.FC = () => {
   const [ref, inView] = useInView({
@@ -92,7 +93,7 @@ export const About: React.FC = () => {
 
             <motion.a
               variants={itemVariants}
-              href="src/components/assets/CV.pdf"
+              href={MyCV}
               download
               className="btn-primary inline-flex items-center"
             >
@@ -109,7 +110,7 @@ export const About: React.FC = () => {
               <div className="absolute inset-0 bg-primary-500/20 rounded-md transform translate-x-4 translate-y-4"></div>
               <div className="relative bg-slate-100 dark:bg-navy-light rounded-md overflow-hidden border-2 border-primary-500/30 p-2">
                 <img
-                  src="AB-Portfolio/src/components/assets/about.png"
+                  src={MyImage}
                   alt="Profile"
                   className="w-full h-auto rounded-md grayscale hover:grayscale-0 transition-all duration-300"
                 />
