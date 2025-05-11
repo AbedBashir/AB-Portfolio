@@ -50,7 +50,7 @@ export const projectsData = [
     category: "shopify",
     company: "Parallel Holdings",
     location: "EGY",
-    link: "https:www.eg.sohaticare.com/",
+    link: "https://www.eg.sohaticare.com/",
   },
   {
     id: 2,
@@ -59,7 +59,7 @@ export const projectsData = [
     category: "wordpress",
     company: "Growth Hacker",
     location: "CAD",
-    link: "https:oxfordscholastica.com",
+    link: "https://www.oxfordscholastica.com",
   },
   {
     id: 3,
@@ -68,7 +68,7 @@ export const projectsData = [
     category: "shopify",
     company: "Growth Hacker",
     location: "CAD",
-    link: "https:juniorkids.ca/",
+    link: "https://www.juniorkids.ca/",
   },
   {
     id: 4,
@@ -77,7 +77,7 @@ export const projectsData = [
     category: "wordpress",
     company: "Growth Hacker",
     location: "CAD",
-    link: "https:lesfinfinettes.com/",
+    link: "https://www.lesfinfinettes.com/",
   },
   {
     id: 5,
@@ -86,7 +86,7 @@ export const projectsData = [
     category: "shopify",
     company: "BashFusion",
     location: "LBN",
-    link: "https:chapteroneonline.com/",
+    link: "https://www.chapteroneonline.com/",
   },
   {
     id: 6,
@@ -95,7 +95,7 @@ export const projectsData = [
     category: "wordpress",
     company: "Growth Hacker",
     location: "CAD",
-    link: "https:mercermackay.com/",
+    link: "https://www.mercermackay.com/",
   },
   {
     id: 7,
@@ -104,7 +104,7 @@ export const projectsData = [
     category: "wordpress",
     company: "BashFusion",
     location: "LBN",
-    link: "https:caesarsflame.com/",
+    link: "https://www.caesarsflame.com/",
   },
   {
     id: 8,
@@ -113,7 +113,7 @@ export const projectsData = [
     category: "shopify",
     company: "Parallel Holdings",
     location: "EGY",
-    link: "https:eg.looliacloset.com/",
+    link: "https://www.eg.looliacloset.com/",
   },
   {
     id: 9,
@@ -122,7 +122,7 @@ export const projectsData = [
     category: "wordpress",
     company: "Growth Hacker",
     location: "CAD",
-    link: "https:silvascience.org",
+    link: "https://www.silvascience.org",
   },
   {
     id: 10,
@@ -131,7 +131,7 @@ export const projectsData = [
     category: "shopify",
     company: "Growth Hacker",
     location: "CAD",
-    link: "https:naturesageomega3.com/",
+    link: "https://www.naturesageomega3.com/",
   },
   {
     id: 11,
@@ -140,7 +140,7 @@ export const projectsData = [
     category: "wordpress",
     company: "Growth Hacker",
     location: "CAD",
-    link: "https:www.lestudiono20.com/",
+    link: "https://www.lestudiono20.com/",
   },
   {
     id: 12,
@@ -149,7 +149,7 @@ export const projectsData = [
     category: "shopify",
     company: "Growth Hacker",
     location: "CAD",
-    link: "https:www.jeux-mania.ca/",
+    link: "https://www.jeux-mania.ca/",
   },
   {
     id: 13,
@@ -158,7 +158,7 @@ export const projectsData = [
     category: "wordpress",
     company: "Growth Hacker",
     location: "CAD",
-    link: "https:go360canada.com/",
+    link: "https://www.go360canada.com/",
   },
   {
     id: 14,
@@ -167,7 +167,7 @@ export const projectsData = [
     category: "shopify",
     company: "Growth Hacker",
     location: "CAD",
-    link: "https:www.verbproducts.com",
+    link: "https://www.verbproducts.com",
   },
   {
     id: 15,
@@ -176,7 +176,7 @@ export const projectsData = [
     category: "wordpress",
     company: "Growth Hacker",
     location: "CAD",
-    link: "https:authentiksecurite.com/",
+    link: "https://www.authentiksecurite.com/",
   },
   {
     id: 16,
@@ -185,7 +185,7 @@ export const projectsData = [
     category: "shopify",
     company: "Growth Hacker",
     location: "CAD",
-    link: "https:noahbissi.com/",
+    link: "https://www.noahbissi.com/",
   },
   {
     id: 17,
@@ -194,7 +194,7 @@ export const projectsData = [
     category: "wordpress",
     company: "BashFusion",
     location: "LBN",
-    link: "https:robertalexandersalon.com/",
+    link: "https://www.robertalexandersalon.com/",
   },
   {
     id: 18,
@@ -203,7 +203,7 @@ export const projectsData = [
     category: "shopify",
     company: "Growth Hacker",
     location: "CAD",
-    link: "https:www.simplementkosy.ca/",
+    link: "https://www.simplementkosy.ca/",
   },
   {
     id: 19,
@@ -212,7 +212,7 @@ export const projectsData = [
     category: "wordpress",
     company: "Growth Hacker",
     location: "CAD",
-    link: "https:www.riieq.ca/",
+    link: "https://www.riieq.ca/",
   },
   {
     id: 20,
@@ -221,7 +221,7 @@ export const projectsData = [
     category: "shopify",
     company: "BashFusion",
     location: "LBN",
-    link: "https:pineconerow.com/",
+    link: "https://www.pineconerow.com/",
   },
   {
     id: 21,
@@ -230,7 +230,7 @@ export const projectsData = [
     category: "wordpress",
     company: "Securealm",
     location: "LBN",
-    link: "https:www.bulletvpn.com/",
+    link: "https://www.bulletvpn.com/",
   },
   {
     id: 22,
@@ -239,7 +239,7 @@ export const projectsData = [
     category: "shopify",
     company: "Growth Hacker",
     location: "CAD",
-    link: "https:marklumber.com/",
+    link: "https://www.marklumber.com/",
   },
   {
     id: 23,
@@ -248,7 +248,7 @@ export const projectsData = [
     category: "wordpress",
     company: "Growth Hacker",
     location: "CAD",
-    link: "https:vergerduflancnord.com",
+    link: "https://www.vergerduflancnord.com",
   },
   {
     id: 24,
@@ -257,7 +257,7 @@ export const projectsData = [
     category: "shopify",
     company: "Growth Hacker",
     location: "CAD",
-    link: "https:sexxxplus.com/",
+    link: "https://www.sexxxplus.com/",
   },
   {
     id: 25,
@@ -266,7 +266,7 @@ export const projectsData = [
     category: "wordpress",
     company: "BashFusion",
     location: "LBN",
-    link: "https:www.greenmountrecycling.com/",
+    link: "https://www.greenmountrecycling.com/",
   },
   {
     id: 26,
@@ -275,7 +275,7 @@ export const projectsData = [
     category: "shopify",
     company: "Growth Hacker",
     location: "CAD",
-    link: "https:verslavenir.net/",
+    link: "https://www.verslavenir.net/",
   },
   {
     id: 27,
@@ -284,7 +284,7 @@ export const projectsData = [
     category: "wordpress",
     company: "BashFusion",
     location: "LBN",
-    link: "https:www.wastedtreasures.org/",
+    link: "https://www.wastedtreasures.org/",
   },
   {
     id: 28,
@@ -293,7 +293,7 @@ export const projectsData = [
     category: "shopify",
     company: "Growth Hacker",
     location: "CAD",
-    link: "https:bimoo.ca/",
+    link: "https://www.bimoo.ca/",
   },
   {
     id: 29,
@@ -302,7 +302,7 @@ export const projectsData = [
     category: "wordpress",
     company: "Growth Hacker",
     location: "CAD",
-    link: "https:learnopolis-institute.com/",
+    link: "https://www.learnopolis-institute.com/",
   },
   {
     id: 30,
@@ -311,7 +311,7 @@ export const projectsData = [
     category: "shopify",
     company: "Growth Hacker",
     location: "CAD",
-    link: "https:partyomax.com/",
+    link: "https://www.partyomax.com/",
   },
   {
     id: 31,
@@ -329,7 +329,7 @@ export const projectsData = [
     category: "shopify",
     company: "Growth Hacker",
     location: "CAD",
-    link: "https:www.vapeshopmania.ca/",
+    link: "https://www.vapeshopmania.ca/",
   },
   {
     id: 33,
@@ -338,7 +338,7 @@ export const projectsData = [
     category: "wordpress",
     company: "Growth Hacker",
     location: "CAD",
-    link: "https:e3electricite.ca/",
+    link: "https://www.e3electricite.ca/",
   },
   {
     id: 34,
@@ -347,7 +347,7 @@ export const projectsData = [
     category: "shopify",
     company: "Growth Hacker",
     location: "CAD",
-    link: "https:www.coteaudesartisans.com/",
+    link: "https://www.coteaudesartisans.com/",
   },
   {
     id: 35,
@@ -356,7 +356,7 @@ export const projectsData = [
     category: "wordpress",
     company: "BashFusion",
     location: "LBN",
-    link: "https:www.filco-lb.com/",
+    link: "https://www.filco-lb.com/",
   },
   {
     id: 36,
@@ -365,7 +365,7 @@ export const projectsData = [
     category: "shopify",
     company: "Growth Hacker",
     location: "CAD",
-    link: "https:cliniqueodyssey.com/",
+    link: "https://www.cliniqueodyssey.com/",
   },
   {
     id: 37,
@@ -373,7 +373,7 @@ export const projectsData = [
     category: "wordpress",
     company: "Growth Hacker",
     location: "CAD",
-    link: "https:www.sis-lebanon.com/",
+    link: "https://www.sis-lebanon.com/",
   },
   {
     id: 38,
@@ -381,7 +381,7 @@ export const projectsData = [
     category: "shopify",
     company: "Growth Hacker",
     location: "CAD",
-    link: "https:www.capsulcase.com/",
+    link: "https://www.capsulcase.com/",
   },
   {
     id: 39,
@@ -389,7 +389,7 @@ export const projectsData = [
     category: "wordpress",
     company: "BashFusion",
     location: "LBN",
-    link: "https:www.khatiblegal.com/",
+    link: "https://www.khatiblegal.com/",
   },
   {
     id: 40,
@@ -398,7 +398,7 @@ export const projectsData = [
     category: "shopify",
     company: "Growth Hacker",
     location: "CAD",
-    link: "https:www.gayaneavetisyan.ca/",
+    link: "https://www.gayaneavetisyan.ca/",
   },
   {
     id: 41,
@@ -407,7 +407,7 @@ export const projectsData = [
     category: "wordpress",
     company: "Growth Hacker",
     location: "CAD",
-    link: "https:uniquecoaching.ca/",
+    link: "https://www.uniquecoaching.ca/",
   },
   {
     id: 42,
@@ -416,7 +416,7 @@ export const projectsData = [
     category: "shopify",
     company: "Growth Hacker",
     location: "CAD",
-    link: "https:www.cmeg.ca/",
+    link: "https://www.cmeg.ca/",
   },
   {
     id: 43,
@@ -425,7 +425,7 @@ export const projectsData = [
     category: "wordpress",
     company: "Growth Hacker",
     location: "CAD",
-    link: "https:demenagementwillgo.com/",
+    link: "https://www.demenagementwillgo.com/",
   },
 ];
 

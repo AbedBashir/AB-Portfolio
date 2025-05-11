@@ -31,8 +31,6 @@ const skills: Skill[] = [
   { name: "GraphQL", level: 75, category: "backend" },
   { name: "PHP", level: 80, category: "backend" },
   { name: "Docker", level: 70, category: "backend" },
-  { name: "Swift", level: 10, category: "backend" },
-  { name: "Kotlin", level: 10, category: "backend" },
   { name: "Python", level: 30, category: "backend" },
 
   { name: "Microsoft", level: 100, category: "general" },

@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { motion } from "framer-motion";
 import { useInView } from "react-intersection-observer";
 import { Mail, Phone, MapPin, Send } from "lucide-react";
+import emailjs from "emailjs-com";
 
 export const Contact: React.FC = () => {
   const [formData, setFormData] = useState({
@@ -33,22 +34,25 @@ export const Contact: React.FC = () => {
     e.preventDefault();
     setIsSubmitting(true);
 
-    // Simulate form submission
-    setTimeout(() => {
-      setIsSubmitting(false);
-      setIsSubmitted(true);
-      setFormData({
-        name: "",
-        email: "",
-        subject: "",
-        message: "",
-      });
+    emailjs
+      .send(
+        "service_ooqseag",
+        "template_63alk1s",
+        formData,
+        "69kNDtuNQEtsQLqNP"
+      )
+      .then(() => {
+        setIsSubmitting(false);
+        setIsSubmitted(true);
+        setFormData({ name: "", email: "", subject: "", message: "" });
 
-      // Reset submission status after 5 seconds
-      setTimeout(() => {
-        setIsSubmitted(false);
-      }, 5000);
-    }, 1500);
+        setTimeout(() => setIsSubmitted(false), 5000);
+      })
+      .catch((error) => {
+        setIsSubmitting(false);
+        console.error("Email send failed:", error);
+        alert("Oops! Something went wrong.");
+      });
   };
 
   const containerVariants = {
