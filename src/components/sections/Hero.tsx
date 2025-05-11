@@ -75,14 +75,6 @@ export const Hero: React.FC = () => {
             </a>
           </motion.div>
         </div>
-
-        <div className="max-w-3xl">
-          <img
-            src={sohati__scroll}
-            className="absolute inset-0 w-full object-cover opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-y-0 group-hover:translate-y-[-70%]"
-            style={{ height: "200%" }}
-          />
-        </div>
       </div>
 
       <motion.div
