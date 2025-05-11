@@ -1,5 +1,5 @@
-import React from 'react';
-import { Github, Linkedin, Twitter, Mail } from 'lucide-react';
+import React from "react";
+import { Github, Linkedin, Smartphone, Mail } from "lucide-react";
 
 export const Footer: React.FC = () => {
   const year = new Date().getFullYear();
@@ -13,37 +13,37 @@ export const Footer: React.FC = () => {
               &copy; {year} Developer Portfolio. All Rights Reserved.
             </p>
           </div>
-          
+
           <div className="flex items-center space-x-4">
-            <a 
-              href="https://github.com" 
-              target="_blank" 
+            <a
+              href="https://github.com/AbedBashir/"
+              target="_blank"
               rel="noopener noreferrer"
               className="text-slate-dark dark:text-slate hover:text-primary-500 dark:hover:text-primary-500 transition-colors duration-300"
               aria-label="GitHub"
             >
               <Github size={20} />
             </a>
-            <a 
-              href="https://linkedin.com" 
-              target="_blank" 
+            <a
+              href="https://linkedin.com/in/abedbashir/"
+              target="_blank"
               rel="noopener noreferrer"
               className="text-slate-dark dark:text-slate hover:text-primary-500 dark:hover:text-primary-500 transition-colors duration-300"
               aria-label="LinkedIn"
             >
               <Linkedin size={20} />
             </a>
-            <a 
-              href="https://twitter.com" 
-              target="_blank" 
+            <a
+              href="https://wa.me/+96181713782"
+              target="_blank"
               rel="noopener noreferrer"
               className="text-slate-dark dark:text-slate hover:text-primary-500 dark:hover:text-primary-500 transition-colors duration-300"
-              aria-label="Twitter"
+              aria-label="Smartphone"
             >
-              <Twitter size={20} />
+              <Smartphone size={20} />
             </a>
-            <a 
-              href="mailto:contact@example.com" 
+            <a
+              href="mailto:dev@abedbashir.com"
               className="text-slate-dark dark:text-slate hover:text-primary-500 dark:hover:text-primary-500 transition-colors duration-300"
               aria-label="Email"
             >
