@@ -41,6 +41,8 @@ import gayane from "../components/assets/gayane.png";
 import uniquecoaching from "../components/assets/uniquecoaching.png";
 import cmeg from "../components/assets/cmeg.png";
 import willgo from "../components/assets/willgo.png";
+import boujeelife from "../components/assets/boujeelife.png";
+import paleolib from "../components/assets/paleolib.png";
 
 export const projectsData = [
   {
@@ -426,6 +428,24 @@ export const projectsData = [
     company: "Growth Hacker",
     location: "CAD",
     link: "https://www.demenagementwillgo.com/",
+  },
+  {
+    id: 44,
+    image: boujeelife,
+    title: "Boujee Life",
+    category: "shopify",
+    company: "BashFusion",
+    location: "UAE",
+    link: "https://www.boujeelife.ae/",
+  },
+  {
+    id: 45,
+    image: paleolib,
+    title: "Paleolib",
+    category: "wordpress",
+    company: "BashFusion",
+    location: "LBN",
+    link: "https://www.paleolib.com/",
   },
 ];
 
